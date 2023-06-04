@@ -1,0 +1,251 @@
+header {
+    width: 100%;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+  }
+  .mainn{
+    margin-top: 0px;
+  }
+  .App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+  }
+  .headd{
+    margin-top: 0px;
+    top: 0px;
+  }
+  .submit-btn{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0px;
+    
+  }
+
+  .formButtons{
+    height: 250px;
+  }
+
+  
+  
+  .outputImage{
+    background-color: white;
+    border: 1px solid black;
+    width: 256px;
+    height: 256px;
+    margin-bottom: 25px;
+    margin-left: 90px;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    top:0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+  .headinggg{
+    margin-left: 0px;
+    float: left;
+    justify-content: left;
+    display: flex;
+  }
+  
+  .mHeading{
+    color: white;
+    font-size: 55px;
+  }
+  
+  .headingg{
+    float: left;
+    margin-left: 0px;
+  }
+
+
+  body {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+      background-size: 400% 400%;
+      animation: gradient 15s ease infinite;
+      height: 100vh;
+  }
+  
+  .btn-grad {
+    background-image: linear-gradient(to right, #24313a 0%, #093841  51%, #1e5a88  100%);
+    margin: 10px;
+    padding: 8px 20px;
+    text-align: center;
+    font-size: 15px;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    border-radius: 10px;
+    display: block;
+    border: 0px;
+    /* box-shadow: 0 0 20px #eee; */
+  }
+  
+  .btn-grad:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+
+
+
+
+  .btn-graad {
+    background-image: linear-gradient(to right, #811313 0%, #c53e26  51%, #924112  100%);
+    margin: 10px;
+    padding: 8px 20px;
+    text-align: center;
+    font-size: 15px;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    border-radius: 10px;
+    display: block;
+    border: 0px;
+    /* box-shadow: 0 0 20px #eee; */
+  }
+  
+  .btn-graad:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .btn-graadd {
+    background-image: linear-gradient(to right, #19a80c 0%, #75aa1f  51%, #91d820  100%);
+    margin: 10px;
+    margin-left: 162px;
+    font-size: 15px;
+    margin-top: 13px;
+    padding: 8px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    border-radius: 10px;
+    display: block;
+    border: 0px;
+    /* box-shadow: 0 0 20px #eee; */
+  }
+  
+  .btn-graadd:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+
+
+  
+  .btn-grdd {
+    background-image: linear-gradient(to right, #811313 0%, #c53e26  51%, #924112  100%);
+    margin: 10px;
+    margin-left: 172px;
+    font-size: 15px;
+    margin-top: 13px;
+    padding: 8px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    border-radius: 10px;
+    display: block;
+    border: 0px;
+    /* box-shadow: 0 0 20px #eee; */
+  }
+  
+  .btn-grdd:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+           
+ 
+
+  .btn-gradd {
+    background-image: linear-gradient(to right, #24313a 0%, #093841  51%, #1e5a88  100%);
+    margin: 10px;
+    margin-left: 172px;
+    font-size: 15px;
+    margin-top: 13px;
+    padding: 8px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    border-radius: 10px;
+    display: block;
+    border: 0px;
+    /* box-shadow: 0 0 20px #eee; */
+  }
+  
+  .btn-gradd:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .btn-graddd {
+    background-image: linear-gradient(to right, #24313a 0%, #093841  51%, #1e5a88  100%);
+    margin: 10px;
+    font-size: 15px;
+    margin-left: 145px;
+    margin-top: 13px;
+    padding: 8px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    border-radius: 10px;
+    display: block;
+    border: 0px;
+    /* box-shadow: 0 0 20px #eee; */
+  }
+  
+  .btn-graddd:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  @keyframes gradient {
+      0% {
+          background-position: 0% 50%;
+      }
+      50% {
+          background-position: 100% 50%;
+      }
+      100% {
+          background-position: 0% 50%;
+      }
+  }
